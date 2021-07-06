@@ -1,1 +1,1 @@
-${release.externalScriptVariable}="changed"
+println "Variable change" 
